@@ -4,6 +4,7 @@ This APP will detect multiple faces in the provided image.
 ***************************************
 
   Project name : Face Recognition Application
+  
   Description: Amazing Website that will detect any face on an image. All You need to do is provide the URL of an image and click ‘Detect’ and It will display Your image and add borders around detected faces.
   This App currently only has Front-end and is developed using ReactJS (Styling is Tachyons and ParticleJS). I’m on my way to acquire knowledge of back-end (NodeJS and ExpressJS) and I will further this project at first possible convenience. Until then, have fun!
 
